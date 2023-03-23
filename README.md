@@ -13,7 +13,7 @@
 - Python 3.6+ 
 - PIP (or Anaconda)
 - Not required but recommended: An environment management tool such as pipenv, venv, virtualend, conda.
-- Docker Desktop
+- Docker Desktop installed
 
 ## Installing the dependencies
 
